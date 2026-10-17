@@ -1,7 +1,7 @@
 # 인수인계 메모: 2026 7급 역량강화 연수 안내 페이지 (2026-10-17 기준)
 
 `index.html` 한 파일(좌우로 넘기는 15쪽 슬라이드). 5급 승진예정자 연수 템플릿에서 만들었다.
-배포: GitHub Pages — https://ttorwai-stack.github.io/cap7-2026/ (`main`, 공개 저장소 ttorwai-stack/cap7-2026). 담당자 연락처 공개 노출은 사용자 확인 완료. 이 PC에서는 긴 경로 오류를 피하려고 `C:SERS	TORWP7-2026`̗�̄� ̞�̗�͕�ˋ�.
+배포: GitHub Pages — https://ttorwai-stack.github.io/cap7-2026/ (`main`, 공개 저장소 ttorwai-stack/cap7-2026). 담당자 연락처 공개 노출은 사용자 확인 완료. 이 PC에서는 긴 경로 오류를 피하려고 `C:/Users/ttorw/cap7-2026`에서 작업한다.
 
 ## 반영한 내용
 - 연수명 2026년 7급 역량강화 연수 / 2026. 11. 4.(수) ~ 11. 6.(금), 2박 3일 / 대강당(율곡관 2층) / 80명
